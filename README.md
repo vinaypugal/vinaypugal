@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-red?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Fastai" src="https://img.shields.io/badge/-Fastai-grey?style=flat-square&logo=fastai&logoColor=white" />
