@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Mongodb" src="https://img.shields.io/badge/-Mongodb-43840d?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-E34F26?style=flat-square&logo=hasura&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-CB3837?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -36,6 +35,5 @@ Here are some ideas to get you started:
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-red?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="Fastai" src="https://img.shields.io/badge/-Fastai-grey?style=flat-square&logo=fastai&logoColor=white" />
-
 
 </p>
