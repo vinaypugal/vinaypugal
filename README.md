@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-red?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Fastai" src="https://img.shields.io/badge/-Fastai-black?style=flat-square&logo=fast.ai&logoColor=white" />
+  <img alt="Fastai" src="https://img.shields.io/badge/-Fastai-grey?style=flat-square&logo=fastai&logoColor=white" />
 
 
 </p>
