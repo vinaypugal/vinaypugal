@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vinaypugal/vinaypugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hi, there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
+
+<h1> Hi, I am Vinay </h1>
+<h3> React, Svelte and Node Developer</h3> 
+<br/>
+<p>If I am not coding, you will find me playing valorant </p>
+<br/>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
