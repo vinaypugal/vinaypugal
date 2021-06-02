@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="tailwind" src="https://img.shields.io/badge/-tailwind-cyan?style=flat-square&logo=tailwind&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/-tailwind-cyan?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-grey?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-31B6BA?style=flat-square&logo=netlify&logoColor=white" />
