@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ## Hi, I am Vinay
 ## React, and Node Developer
-<br/>
 <h3> Things I code with </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
