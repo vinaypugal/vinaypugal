@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1>Hi, there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 
-<h1> Hi, I am Vinay </h1>
+## Hi, I am Vinay
 <h3> React, and Node Developer</h3> 
 <br/>
 <h3>Things I code with</h3>
