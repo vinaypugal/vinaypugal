@@ -42,5 +42,3 @@ Here are some ideas to get you started:
   <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-green?style=flat-square&logo=anaconda&logoColor=white" />
 
 </p>
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaypugal&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaypugal&count_private=true)
