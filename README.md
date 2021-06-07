@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <h1> Hi, I am Vinay </h1>
 <h3> React, and Node Developer</h3> 
 <br/>
-<br/>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
