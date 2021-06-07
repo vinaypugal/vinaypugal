@@ -41,4 +41,4 @@ Here are some ideas to get you started:
   <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-green?style=flat-square&logo=anaconda&logoColor=white" />
 
 </p>
-[![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaypugal)](https://github.com/anuraghazra/github-readme-stats)
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaypugal)
