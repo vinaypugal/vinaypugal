@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 </p>
 
 ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaypugal)
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vinaypugal" />
+
 
